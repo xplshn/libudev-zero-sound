@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: ISC
 .POSIX:
 
-PREFIX = /usr
+PREFIX = /usr/local
 LIBDIR = ${PREFIX}/lib
 INCLUDEDIR = ${PREFIX}/include
 PKGCONFIGDIR = ${LIBDIR}/pkgconfig
